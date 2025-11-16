@@ -245,7 +245,7 @@ MIT License - see LICENSE file for details.
 For questions, suggestions, or collaborations:
 - **Issues**: Use GitHub issues for bug reports and feature requests
 - **Discussions**: Use GitHub discussions for technical questions
-- **Email**: [Contact information]
+- **Email**: [Contact information] aaronalexanderq4@gmail.com
 
 ---
 
